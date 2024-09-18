@@ -11,8 +11,8 @@ EMPRESA = input("Ingrese el nombre de la empresa: ")
 # Establecer conexion con el servidor
 smtp_server = "smtp.gmail.com"
 port = 465
-username = "proyectoprogramacion191@gmail.com"
-password = "hgyz ziae xqrr wrva"
+username = #Pon aquí tu correo
+password = #Pon aquí tu contraseña
 
 # Crear funcion para enviar correo
 def send_email(subject, message, recipients, attachment=None):
