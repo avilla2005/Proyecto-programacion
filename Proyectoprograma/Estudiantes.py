@@ -12,8 +12,8 @@ facultad = input("ingrese su curso o facultad: ")
 #establecer conexión con el servidor
 smtp_server = "smtp.gmail.com"
 port = 465
-username = #Pon aquí tu correo
-password = #Pon aquí tu contraseña                          
+username = #Ingresa aquí tu correo
+password = #Ingresa aquí tu contraseña                          
 
 
 #crear función para enviar correo
