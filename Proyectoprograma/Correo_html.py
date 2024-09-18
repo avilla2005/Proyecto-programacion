@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
-username = #Pon aqui tu correo
-password = #Pon aquí la contraseña de tu correo
+username = #Ingresa aqui tu correo
+password = #Ingresa aquí la contraseña de tu correo
 # Configración del servidor SMTP
 smtp_server = "smtp.gmail.com"
 port = 465  # Puerto para SSL
