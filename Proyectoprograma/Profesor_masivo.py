@@ -12,8 +12,8 @@ MATERIA = input("Que materia dicta: ")
 #establecer conexión con el servidor
 smtp_server = "smtp.gmail.com"
 port = 465
-username = "proyectoprogramacion191@gmail.com"
-password = "hgyz ziae xqrr wrva"
+username = #Ingresa aquí tu correo
+password = #Ingresa aquí tu contraseña
 
 #crear funcion para enviar correo
 def send_masive_email(subject, message, recipients, attachment=None):
