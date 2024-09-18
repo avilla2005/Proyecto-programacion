@@ -12,8 +12,8 @@ MATERIA = input("Que materia dicta: ")
 #establecer conexión con el servidor
 smtp_server = "smtp.gmail.com"
 port = 465
-username = #Pone aquí tu correo
-password = #Pone aquí tu contraseña
+username = #Ingresa aquí tu correo
+password = #Ingresa aquí tu contraseña
 
 #crear función para enviar correo
 def send_individual_email(subject, message, recipients, attachment=None):
